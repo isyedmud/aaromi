@@ -326,19 +326,22 @@ $(window).scroll(function() {
       type: 'doughnut',
       data: {
         datasets: [{
-          data: [20.1, 28.6, 33.8, 45.5, 72.2],
-          backgroundColor: ['#f3545d','#fdaf4b','#1d7af3','#34e4ef','#e80ae5'], 
+          data: [10, 10, 30, 15, 15,10,5,5],
+          backgroundColor: ['#f3545d','#fdaf4b','#1d7af3','#34e4ef','#e80ae5','#4A235A','#900C3F','#B7950B'], 
           borderWidth:2,
           borderColor:'#fafafa',
 
         }],
 
         labels: [
-        'Private/Pre Sale',
-        'Public ICO',
-        'Team & Advisor',
-        'Marketing & General',
-        'Bounty'
+        'Pre Sale(ICO/IEO)',
+        'Public Sale',
+        'Public Sale Reserved',
+        'Project Development',
+        'Marketing & Promotion',
+        'Team',
+        'Community & Rewards',
+        'Product Management & Advisory',
         ]
       },
       options: {
