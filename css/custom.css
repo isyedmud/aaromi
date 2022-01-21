@@ -1,3 +1,4 @@
+
 @import url("../css/fontawesome.min.css");
 @import url("../css/animate.min.css");
 @import url("../css/bootstrap.css");
@@ -1739,9 +1740,9 @@ td.table-head, td.table-des {
 .chart-legend ul li .chart-label.color-3:before { background: #1d7af3; }
 .chart-legend ul li .chart-label.color-4:before { background: #34e4ef; }
 .chart-legend ul li .chart-label.color-5:before { background: #e80ae5; }
-.chart-legend ul li .chart-label.color-5:before { background: #4A235A; }
-.chart-legend ul li .chart-label.color-5:before { background: #900C3F; }
-.chart-legend ul li .chart-label.color-5:before { background: #B7950B; }
+.chart-legend ul li .chart-label.color-6:before { background: #4A235A; }
+.chart-legend ul li .chart-label.color-7:before { background: #900C3F; }
+.chart-legend ul li .chart-label.color-8:before { background: #B7950B; }
 
   /*------ Token Sale Counter Start ------*/
   .item-offer-clock p { margin-bottom: 10px; }
