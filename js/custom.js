@@ -261,7 +261,7 @@ $(function() {
   /*countdown-clock Js Start*/
   function countdown_clock() {
     $('.countdown-clock').downCount({
-      date: '10/03/2022 11:39:00',
+      date: '01/02/2022 11:39:00',
           offset: +10
       }, 
       function () {
