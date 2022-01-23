@@ -239,7 +239,7 @@ _______________________________________________________*/
       background: #32208c none repeat scroll 0 0;
   }
   p {
-    color: #fff;
+    color: #7a7a7a;
   }
   .middle-800 p {
     display: inline-block;
@@ -3640,3 +3640,14 @@ ul.social-icon li i:hover {
 }
 .copy-right a { color: #3e2bc5; }
 /*--------- Footer CSS End -----------*/
+
+/*Aaromi Style */
+.aaromititle
+{
+   color: white;
+    font-size: 20px;
+    font-weight: bold
+}
+ .aaromip {
+    color: #fff;
+  }
