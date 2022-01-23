@@ -227,7 +227,7 @@ _______________________________________________________*/
     text-align: right;
   }
   .dark-bg {
-    background-color: #f3f2fb;
+    background-color: #32208c;
   }
   .light-bg {
     background-color: #1f0e9c;
@@ -239,7 +239,7 @@ _______________________________________________________*/
       background: #f3f2fb none repeat scroll 0 0;
   }
   p {
-    color: #7a7a7a;
+    color: #fff;
   }
   .middle-800 p {
     display: inline-block;
